@@ -1,5 +1,3 @@
-A PHP-based VFW website (non-CMS)
-
 <a href="http://vfw.php.marniescully.biz/index.php">A PHP-based VFW website (non-CMS)</a>
 
 This is the non-CMS version of the VFW website that I developed for the Harvard Extension School course <a href="https://www.extension.harvard.edu/academics/courses/fundamentals-website-development/21144"> Fundamentals of Website Development </a> 
